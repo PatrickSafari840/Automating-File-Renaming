@@ -13,3 +13,5 @@ Libraries you'll need:
 
 os: This library provides functions for interacting with the operating system, like getting file names and paths.
 
+Replace "/path/to/your/directory" with the path to the directory containing the files you want to rename. Also, adjust the prefix variable according to the renaming rule you want to apply.
+
